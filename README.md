@@ -1,6 +1,6 @@
 # Syncosaurus Dashboard
 
-![Alt text](./app_screenshot.png?raw=true "Syncosaurus Dashboard")
+<img alt="Syncosaurus Dashboard Screenshot" src="./app_screenshot.png?raw=true" width="75%">
 
 ## Introduction
 
