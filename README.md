@@ -31,21 +31,3 @@ To get started with the dashboard:
 3. Click a room's namespace ID under `Single Room Metrics` to view data for that room
 4. The date selector defaults to the current date. To view metrics for a different date, use the date selector dropdown under the `Selected Date` heading to select your desired date.
 5. Your selected data should now be displayed in the dashbard's main display area. Toggle different statistics by clicking on the desired statistic.
-
-The following statistics are provided for the aggregated 'All Rooms Metrics' option:
-   - Total \# of active rooms per hour
-   - Max \# of websocket connections per hour
-   - Average \# of connections per active room per hour
-   - Total \# of inbound websocket messages per hour
-   - Total \# of outbound websocket messages per hour
-   - Total \# of exceeded CPU errors per hour
-   - Total \# of exceeded memory errors per hour
-   - Total \# of fatal internal errors per hour
-
-The following metrics are provided for 'Individual Room Metrics' option:
-  - Max \# of websocket connections per hour
-  - Total \# of inbound websocket messages per hour
-  - Total \# of outbound websocket messages per hour
-  - Total \# of exceeded CPU errors per hour
-  - Total \# of exceeded memory errors per hour
-  - Total \# of fatal internal errors per hour
