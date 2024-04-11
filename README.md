@@ -1,6 +1,8 @@
 # Syncosaurus Dashboard
+<kbd>
+    <img alt="Syncosaurus Dashboard Screenshot" src="./app_screenshot.png?raw=true">
+</kbd>
 
-<img alt="Syncosaurus Dashboard Screenshot" src="./app_screenshot.png?raw=true" width="75%">
 
 ## Overview
 
