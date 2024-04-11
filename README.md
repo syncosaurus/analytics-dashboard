@@ -2,9 +2,9 @@
 
 <img alt="Syncosaurus Dashboard Screenshot" src="./app_screenshot.png?raw=true" width="75%">
 
-## Introduction
+## Overview
 
-The Syncosaurus dashboard is a locally hosted analytics monitoring application, allowing developers to view, analyze and troubleshoot their deployed Durable Objects (aka Rooms).
+The Syncosaurus dashboard is a locally hosted analytics monitoring application, allowing developers to view, analyze and troubleshoot their Syncosaurus applications.
 
 The dashboard features two sets of metrics for each project:
 - **All Rooms**: Aggregated metrics for ALL rooms associated with a selected project
